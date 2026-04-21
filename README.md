@@ -26,10 +26,12 @@
 ### 📫 Contact Me
 
 * **Blog:** https://m.blog.naver.com/leeyou2007
-* **Email:** `leeyou07@hs.ac.kr`
+* **Email:** leeyou07@hs.ac.kr
+* **phone number:** 010-8138-5123
 
 ---
 
 ### ⚡ self-introduction
-* **[현재소속]** - 한신대학교 1학년 AI·SW계열 재학
+* **[현재소속]** - 한신대학교 AI·SW계열 1학년 재학
 * **[출신지]** - 인천 부평구
+* **[MBTI]** - ISFP
