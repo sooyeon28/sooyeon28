@@ -19,7 +19,7 @@
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=[당신의ID]&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[당신의ID]&layout=compact&theme=transparent) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=[leeyou07]&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[leeyou07]&layout=compact&theme=transparent) |
 
 ---
 
