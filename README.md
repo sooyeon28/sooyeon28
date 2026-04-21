@@ -26,11 +26,11 @@
 ### 📫 Contact Me
 
 * **Blog:** [블로그 주소 링크]
-* **Email:** `your-email@example.com`
+* **Email:** `leeyou07@hs.ac.kr`
 * **LinkedIn:** [링크드인 주소]
 
 ---
 
-### ⚡ Recent Activity
-* **[Project A]** - 프로젝트에 대한 짧은 설명 (React, TypeScript)
-* **[Project B]** - 프로젝트에 대한 짧은 설명 (Node.js, AWS)
+### ⚡ self-introduction
+* **[현재소속]** - 한신대학교 1학년 AI·SW계열 재학
+* **[출신지]** - 인천 부평구
