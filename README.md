@@ -22,7 +22,7 @@
 
 | 📊 My GitHub Stats | 🐥 Most Used Languages |
 | :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=sooyeon28&show_icons=true&theme=radical&cache_seconds=1800) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeon28&layout=compact&theme=radical&cache_seconds=1800) |
+| <img src="https://github-stats-extended.vercel.app/api?username=sooyeon28&show_icons=true&theme=radical" alt="Stats" /> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sooyeon28&layout=compact&theme=radical" alt="Top Langs" /> |
 
 ---
 
