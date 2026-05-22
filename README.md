@@ -22,7 +22,7 @@
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=[leeyou07]&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[leeyou07]&layout=compact&theme=transparent) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=[sooyeon28]&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[sooyeon28]&layout=compact&theme=transparent) |
 
 ---
 
