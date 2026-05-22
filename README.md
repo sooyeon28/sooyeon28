@@ -1,4 +1,4 @@
-<img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/2596ba55-be1b-4558-a4c5-c461112db142">
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/2596ba55-be1b-4558-a4c5-c461112db142">
 <br clear="all">
 # 안녕하세요👋, 이수연입니다.
 
